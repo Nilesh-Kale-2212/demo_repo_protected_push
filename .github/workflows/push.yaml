@@ -1,0 +1,8 @@
+name: First Push WOrkflow
+on: [push]
+jobs:
+  run-shell-commands:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print Hellow
+        run: echo "hdllow world"
