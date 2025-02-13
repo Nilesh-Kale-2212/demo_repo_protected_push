@@ -5,6 +5,7 @@
     steps:
       - uses: actions/checkout@v3
         with:
+          fetch-depth: 0
           persist-credentials: false
 
       - name: Setup Node.js
@@ -18,3 +19,4 @@
         run: npx semantic-release --ci
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: npx semantic-release --ci
