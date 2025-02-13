@@ -1,0 +1,24 @@
+{
+  "name": "demo_repo_protected_push",
+  "version": "1.0.0",
+  "description": "added prlint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilesh-Kale-2212/demo_repo_protected_push.git"
+  },
+  "author": "Nilesh Kale <nil.kale01@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nilesh-Kale-2212/demo_repo_protected_push/issues"
+  },
+  "homepage": "https://github.com/Nilesh-Kale-2212/demo_repo_protected_push#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^24.2.2"
+  }
+}
