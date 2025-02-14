@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/Nilesh-Kale-2212/demo_repo_protected_push/compare/v1.2.0...v1.3.0) (2025-02-14)
+
+
+### Features
+
+* updated the npm publish ([#16](https://github.com/Nilesh-Kale-2212/demo_repo_protected_push/issues/16)) ([cb0b5d2](https://github.com/Nilesh-Kale-2212/demo_repo_protected_push/commit/cb0b5d221dac0fb1dc9c7915228c759dbfc75432))
+
 # [1.2.0](https://github.com/Nilesh-Kale-2212/demo_repo_protected_push/compare/v1.1.0...v1.2.0) (2025-02-14)
 
 
